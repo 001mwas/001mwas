@@ -1,9 +1,28 @@
-- 👋 Hi, I’m @masterpiece
-- 👀 I’m interested in geospatial datascience.
-- 🌱 I’m currently learning python and machine learning with an ultimate goal of data science.
-- 💞️ I’m looking to collaborate on python for GIS.
+🌍 Geospatial Developer | Data Analyst | Remote Sensing Enthusiast 🛰️
 
-<!---
-001mwas/001mwas is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+🔍 Exploring the world through data and maps, one pixel at a time.
+
+💼 Freelance Geospatial Consultant | GIS Specialist | Python Developer
+
+📊 Transforming complex spatial data into actionable insights for informed decision-making.
+
+💻 Expertise: 
+   - Geospatial Analysis
+   - Remote Sensing
+   - GIS Application Development
+   - Data Visualization
+   - Machine Learning in Earth Observation
+
+🛠️ Tech Stack:
+   - Languages: Python, R, JavaScript
+   - Tools: ArcGIS, QGIS, GDAL, PostGIS
+   - Libraries: GeoPandas, Fiona, Matplotlib, Folium
+
+🔬 Always experimenting with new techniques and methodologies to push the boundaries of geospatial analysis.
+
+🌱 Currently honing my skills in cloud-based geospatial technologies and integrating AI/ML into geospatial workflows.
+
+📫 Let's collaborate on exciting geospatial projects! Reach out at [your.email@example.com] or connect with me on LinkedIn [YourLinkedInProfileURL].
+
+🔗 Portfolio: [YourPortfolioURL]
+
